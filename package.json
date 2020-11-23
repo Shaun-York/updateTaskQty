@@ -1,0 +1,15 @@
+{
+  "name": "updatetaskqty",
+  "version": "1.0.0",
+  "description": "Update nwo task qty in postgres with gql",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "zip": "zip -r fiUpdateTaskQty.zip ."
+  },
+  "author": "s@sry.dev",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
